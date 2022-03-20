@@ -1,5 +1,5 @@
 {
-  "name": "datacenter.js",
+  "name": "datacenter.ts",
   "scripts": {
     "bundle": "tsc && rollup -c && terser --ecma 6 --compress --mangle --module -o dist/datacenter.mjs -- dist/datacenter.big.mjs",
     "start": "tsc && cd dist && node datacenter/main.js",
