@@ -1,4 +1,4 @@
-<img src="https://github.com/notmyst33d/Misc/raw/static/datacenterts.png" align="right">
+<img src="https://github.com/notmyst33d/Misc/raw/static/datacenterts.png" align="right" width="92">
 
 # datacenter.ts
 MTProto backend implementation in TypeScript.
@@ -6,7 +6,7 @@ MTProto backend implementation in TypeScript.
   <table>
     <tr>
       <td valign="middle">Built with ❤️ and </td>
-      <td valign="top"><img src="https://github.com/notmyst33d/Misc/raw/static/ts-lettermark-white.png" height="64"></td>        
+      <td valign="top"><img src="https://github.com/notmyst33d/Misc/raw/static/ts-lettermark-white.png" width="128"></td>        
     </tr>
   </table>
 </p>
