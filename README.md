@@ -6,7 +6,7 @@ MTProto backend implementation in TypeScript.
   <table>
     <tr>
       <td valign="middle">Built with ❤️ and </td>
-      <td valign="top"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/240px-Typescript_logo_2020.svg.png" width="72"></td>        
+      <td valign="top"><img src="https://github.com/notmyst33d/Misc/raw/static/ts-lettermark-white.png" height="64"></td>        
     </tr>
   </table>
 </p>
