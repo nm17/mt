@@ -1,12 +1,12 @@
-import resolve from '@rollup/plugin-node-resolve'
-import commonjs from '@rollup/plugin-commonjs'
+import resolve from '@rollup/plugin-node-resolve';
+import commonjs from '@rollup/plugin-commonjs';
 
 export default {
-  input: 'dist/datacenter/main.js',
+  input: 'dist/main.js',
   output: {
-    name: 'datacenter.js',
+    name: 'datacenter.ts',
     file: 'dist/datacenter.big.mjs',
-    format: 'esm'
+    format: 'esm',
   },
-  plugins: [commonjs(), resolve()]
-}
+  plugins: [commonjs(), resolve()],
+};
