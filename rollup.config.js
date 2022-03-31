@@ -4,8 +4,8 @@ import commonjs from '@rollup/plugin-commonjs';
 export default {
   input: 'dist/main.js',
   output: {
-    name: 'datacenter.ts',
-    file: 'dist/datacenter.big.mjs',
+    name: 'mt',
+    file: 'dist/mt.big.mjs',
     format: 'esm',
   },
   plugins: [commonjs(), resolve()],

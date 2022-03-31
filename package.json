@@ -1,8 +1,8 @@
 {
-  "name": "datacenter.ts",
-  "version": "0.1.0-alpha.1",
+  "name": "mt",
+  "version": "0.1.0-alpha.2",
   "scripts": {
-    "bundle": "tsc && rollup -c && terser --ecma 2020 --compress --mangle --module -o dist/datacenter.mjs -- dist/datacenter.big.mjs",
+    "bundle": "tsc && rollup -c && terser --ecma 2020 --compress --mangle --module -o dist/mt.mjs -- dist/mt.big.mjs",
     "start": "tsc && cd dist && node main.js",
     "debug": "nodemon src/main.ts"
   },

@@ -14,4 +14,4 @@ tcpConnection.on('connected', (socket: Socket, reader: EventEmitter) => {
   reader.on('data', (data) => user.emit('data', data));
 });
 
-log.info('datacenter.ts', 'datacenter.ts is running');
+log.info('mt', 'Mobile Telegram is running');

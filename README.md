@@ -1,7 +1,7 @@
-<img src="https://github.com/notmyst33d/Misc/raw/static/datacenterts.png" align="right" width="92">
+<img src="https://github.com/mobiletelegram/assets/raw/main/logo_circle.png" align="right" width="92">
 
-# datacenter.ts
-MTProto backend implementation in TypeScript.
+# mt
+Mobile Telegram protocol implementation in TypeScript.
 <p align="center">
   <table>
     <tr>
@@ -13,16 +13,16 @@ MTProto backend implementation in TypeScript.
 
 ## Building
 ```
-git clone https://github.com/notmyst33d/datacenter.ts
+git clone https://github.com/mobiletelegram/mt
 npm i
 npm run bundle
 ```
 
-You should get dist/datacenter.mjs as the output.
+You should get dist/mt.mjs as the output.
 
 ## Developing
 ```
-git clone https://github.com/notmyst33d/datacenter.ts
+git clone https://github.com/mobiletelegram/mt
 npm i
 npm run debug
 ```
